@@ -1,0 +1,70 @@
+
+
+.btn1{
+    height: 50px;
+    width: 50%;
+    color: white;
+    background-color: yellowgreen;
+    outline: none;
+    border: none;
+    margin-left: -2px;
+}
+
+.btn1:hover{
+    background-color: rgb(240, 240, 229);
+color: yellowgreen;
+transition: 0.5s;
+}
+
+h5{
+    color: white;
+}
+
+
+
+.parallex{
+    background-image: url(https://www.androidpolice.com/wp-content/uploads/2020/06/11/xiaomi-mi-band-5-17.jpg);
+    background-attachment:fixed;
+    background-size: 100% 100%;
+    width: 100%;
+   
+}
+
+h2{
+    color: white;
+}
+
+.parallex h2{
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.parallex p{
+    font-size: 22px;
+}
+
+
+
+
+
+h1{
+    font-size: 30px;
+    color: rgb(8, 8, 8);
+}
+
+
+.btn2{
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color: yellowgreen;
+    outline: none;
+    border: none;
+    margin-left: -2px;
+}
+
+.btn2:hover{
+    background-color: rgb(240, 240, 229);
+color: yellowgreen;
+transition: 0.5s;
+}
